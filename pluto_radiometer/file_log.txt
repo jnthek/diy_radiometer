@@ -1,0 +1,7 @@
+# h5_file = "20250125-065505_pluto_3state.h5" #MCL LNA ON
+# h5_file = "20250125-065951_pluto_3state.h5" #MCL LNA OFF
+# h5_file = "20250125-070358_pluto_3state.h5" #50 ohm BNC termination
+# h5_file = "20250125-171953_pluto_3state.h5" #New amp first run
+# h5_file = "20250125-172644_pluto_3state.h5" #No signalling, cable disconnected
+h5_file = "20250125-173034_pluto_3state.h5" #No signalling, cable disconnected, internal COLD load
+# h5_file = "20250125-174430_pluto_3state.h5" #Normal connections, but box left open !

@@ -18,7 +18,7 @@ def error_check(res):
 parser = argparse.ArgumentParser(description='Acquire data from three state radiometer, with Pluto backend')
 parser.add_argument('-f', metavar='freq_c', help='Centre frequency (Hz)', nargs='?', default=320e6, type=float)
 parser.add_argument('-s', metavar='freq_s', help='Sampling frequency (Hz)', nargs='?', default=50e6, type=float)
-parser.add_argument('-g', metavar='gain',  help='SDR gain (dB)', nargs='?', default=50, type=float)
+parser.add_argument('-g', metavar='gain',  help='SDR gain (dB)', nargs='?', default=40, type=float)
 parser.add_argument('-t', metavar='t_int', help='Integration time (s)', nargs='?', default=1, type=int)
 
 args = parser.parse_args()
