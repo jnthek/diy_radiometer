@@ -3,5 +3,15 @@
 # h5_file = "20250125-070358_pluto_3state.h5" #50 ohm BNC termination
 # h5_file = "20250125-171953_pluto_3state.h5" #New amp first run
 # h5_file = "20250125-172644_pluto_3state.h5" #No signalling, cable disconnected
-h5_file = "20250125-173034_pluto_3state.h5" #No signalling, cable disconnected, internal COLD load
+# h5_file = "20250125-173034_pluto_3state.h5" #No signalling, cable disconnected, internal COLD load
 # h5_file = "20250125-174430_pluto_3state.h5" #Normal connections, but box left open !
+
+# h5_file = "20250126-063950_pluto_3state.h5" #Normal conditions
+# h5_file = "20250126-064405_pluto_3state.h5" #Normal conditions, but with a ground short between ip BNC and power supply
+# h5_file = "20250126-064724_pluto_3state.h5" #Frist acq with gain set to 40, same short between BNC and PS GND
+# h5_file = "20250126-065211_pluto_3state.h5" #Same as above, short moved to a screw on the box
+# h5_file = "20250126-065622_pluto_3state.h5" #No switching, short still between screw and PS GND
+# h5_file = "20250126-070124_pluto_3state.h5" #Same as above, but laptop power removed and DC pin unplugged
+# h5_file = "20250126-070511_pluto_3state.h5" #short moved to MCL DC terminal, no laptop power, MCL amp (unpowered) connected
+# h5_file = "20250126-070835_pluto_3state.h5" #MCL amp on
+h5_file = "20250126-071439_pluto_3state.h5" #BNC termination (irrelevant), internal COLD load, no switching, no GND short, laptop powered, 15 minutes long run
